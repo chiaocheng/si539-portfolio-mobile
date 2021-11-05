@@ -1,0 +1,42 @@
+
+.about p{
+    padding-bottom: 10px;
+}
+
+.map-container{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 100%;
+}
+
+iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+
+    padding-bottom: 30px;
+}
+.intro{
+    padding-bottom: 40px;
+}
+.about img{
+    border-radius: 8px;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+#about a{
+    text-decoration: underline 2px;
+}
+
+.cite-upper{
+    text-align: center;
+}
+

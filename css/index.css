@@ -1,0 +1,43 @@
+
+/****** card image ******/
+.card img{
+    border-radius: 8px;
+}
+
+
+
+
+/****** margin/padding start ******/
+
+h2{
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+.cite{
+    color: gray;
+}
+
+.card{
+    padding-bottom: 30px;
+}
+
+.card-grid{
+    display: grid;
+    margin: 0 auto;
+}
+
+
+.cite-sectioin{
+    padding-bottom: 50px;
+}
+
+.cite-sectioin p{
+    padding-bottom: 0;
+}
+
+#index a{
+    text-decoration: underline 2px;
+}
+
+
+

@@ -1,0 +1,31 @@
+.market-details {
+    padding-top: 5px;
+}
+
+h2{
+    padding-bottom: 5px;
+    padding-top: 20px;
+    font-size: 1.2em;
+    font-weight: 600;
+    text-align: left;
+}
+
+.card{
+    border-radius: 8px;
+    padding: 20px;
+    border: 1px solid #ffffff60;
+    margin-bottom: 20px;
+}
+
+.card-grid{
+    padding-top: 30px;
+}
+
+.card a{
+    text-decoration: underline 1px solid;
+    color: #9e97ff;
+}
+
+#market a{
+    text-decoration: underline 2px;
+}

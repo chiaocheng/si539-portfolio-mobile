@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+
+body{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: black;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    margin: 30px;
+}
+
+a, a:visited {
+    color: white;
+}
+.nav_item a{
+    line-height: 1.8;
+}
+.nav_item a:hover{
+    text-decoration: underline 2px;
+}
+.nav_item a:active, .nav_item a:focus{
+    text-decoration: underline 2px;
+}
+
+
+h1, h2{
+    font-size: 2em;
+    text-align: center;
+    line-height: 2;
+  }
+h2{
+    font-size: 1.5em;
+}
+h3{
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+header{
+    background-color: rgb(46, 45, 66);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 5px;
+}
+
+.nav_links{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.intro-desription{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+img{
+    border-radius: 8px;
+}
+
+footer{
+    background-color: rgb(46, 45, 66);
+    color: white;
+    text-align: center;
+
+    padding: 30px;
+  }
+
+  .cite{
+    color: rgb(161, 161, 161);
+    font-size: .9em;
+
+}
+
+
+
+.intro-desription{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.cite-sectioin{
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.logo{
+    width: 175px;
+}
+
